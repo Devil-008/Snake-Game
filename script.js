@@ -1,8 +1,8 @@
 // Game constants
 const GRID_SIZE = 20; // Size of each grid cell in pixels
-const GRID_WIDTH = 20; // Number of cells horizontally
-const GRID_HEIGHT = 20; // Number of cells vertically
-const GAME_SPEED = 150; // Initial game speed in milliseconds
+const GRID_WIDTH = 30; // Number of cells horizontally
+const GRID_HEIGHT = 30; // Number of cells vertically
+const GAME_SPEED = 120; // Initial game speed in milliseconds
 
 // Game variables
 let canvas;
